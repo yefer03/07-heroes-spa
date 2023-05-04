@@ -1,0 +1,3 @@
+
+yarn add query-string
+Para tomar los valores del query 'url' cuando se envian
